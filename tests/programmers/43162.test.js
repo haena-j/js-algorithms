@@ -1,6 +1,6 @@
 import solution from "../../algorithms/programmers/43162";
 
-describe("Programmers-43162 Test", () => {
+describe("Programmers 43162 Test", () => {
   test("Test case 1", () => {
     const n = 3;
     const computers = [
