@@ -4,19 +4,18 @@
  * @return {string}
  */
 var convert = function (s, numRows) {
-  const len = s.length;
-  if (numRows > len || numRows < 2) return s;
+  if (numRows === 1 || numRows >= s.length) return s;
 
   const rows = new Array(numRows).fill("");
-  let isDown = true;
-  let count = 0;
+  let row = 0;
+  let step = 1;
 
-  for (let i = 0; i < len; i++) {
-    rows[count] += s[i];
-    isDown ? count++ : count--;
+  for (const char of s) {
+    rows[row] += char;
+    row += step;
 
-    if (count === numRows - 1 || count === 0) {
-      isDown = !isDown;
+    if (row === 0 || row === numRows - 1) {
+      step *= -1;
     }
   }
 
