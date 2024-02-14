@@ -1,4 +1,4 @@
-import solution from "../../algorithms/leetcode/longest-substring-without-repeating-characters";
+import solution from "../../algorithms/leetcode/3-longest-substring-without-repeating-characters";
 
 describe("LeetCode Longest Substring Without Repeating Characters Test", () => {
   test("Test case 1", () => {

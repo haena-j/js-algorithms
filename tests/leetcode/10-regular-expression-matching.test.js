@@ -1,4 +1,4 @@
-import solution from "../../algorithms/leetcode/regular-expression-matching";
+import solution from "../../algorithms/leetcode/10-regular-expression-matching";
 
 describe("LeetCode Regular Expression Matching Test", () => {
   test("Test case 1", () => {

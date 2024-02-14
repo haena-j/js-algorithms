@@ -1,4 +1,4 @@
-import solution from "../../algorithms/leetcode/two-sum";
+import solution from "../../algorithms/leetcode/1-two-sum";
 
 describe("LeetCode Two Sum Test", () => {
   test("Test case 1", () => {

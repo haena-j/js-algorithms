@@ -1,4 +1,4 @@
-import solution from "../../algorithms/leetcode/zigzag-conversion";
+import solution from "../../algorithms/leetcode/6-zigzag-conversion";
 
 describe("LeetCode Zigzag Conversion Test", () => {
   test("Test case 1", () => {

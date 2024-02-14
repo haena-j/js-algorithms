@@ -1,4 +1,4 @@
-import solution from "../../algorithms/leetcode/edit-distance.js";
+import solution from "../../algorithms/leetcode/72-edit-distance.js";
 
 describe("LeetCode Edit Distance Test", () => {
   test("Test case 1", () => {
