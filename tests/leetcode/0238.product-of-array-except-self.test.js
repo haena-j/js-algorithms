@@ -1,4 +1,4 @@
-import solution from "../../algorithms/leetcode/238-product-of-array-except-self";
+import solution from "../../algorithms/leetcode/0238.product-of-array-except-self";
 
 describe("LeetCode Product of Array Except Self Test", () => {
   test("test1", () => {

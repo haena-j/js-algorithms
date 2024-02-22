@@ -1,4 +1,4 @@
-import solution from "../../algorithms/leetcode/217-contains-duplicate";
+import solution from "../../algorithms/leetcode/0217.contains-duplicate";
 
 describe("LeetCode Contains Duplicate Test", () => {
   test("test1", () => {

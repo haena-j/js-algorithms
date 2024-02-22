@@ -1,4 +1,4 @@
-import solution from "../../algorithms/leetcode/8-string-to-integer-atoi";
+import solution from "../../algorithms/leetcode/0008.string-to-integer-atoi";
 
 describe("LeetCode String to Integer (atoi) Test", () => {
   test("Test case 1", () => {

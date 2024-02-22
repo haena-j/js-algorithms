@@ -1,4 +1,4 @@
-import solution from "../../algorithms/leetcode/7-reverse-integer";
+import solution from "../../algorithms/leetcode/0007.reverse-integer";
 
 describe("LeetCode Reverse Integer Test", () => {
   test("Test case 1", () => {

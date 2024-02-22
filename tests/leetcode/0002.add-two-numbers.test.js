@@ -1,4 +1,4 @@
-import solution, { ListNode } from "../../algorithms/leetcode/2-add-two-numbers";
+import solution, { ListNode } from "../../algorithms/leetcode/0002.add-two-numbers";
 
 describe("LeetCode Add Two Numbers Test", () => {
   test("Test case 1", () => {

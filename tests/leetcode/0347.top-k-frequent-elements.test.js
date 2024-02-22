@@ -1,4 +1,4 @@
-import solution from "../../algorithms/leetcode/347-top-k-frequent-elements";
+import solution from "../../algorithms/leetcode/0347.top-k-frequent-elements";
 
 describe("LeetCode Top K Frequent Elements Test", () => {
   test("test1", () => {

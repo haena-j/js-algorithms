@@ -1,4 +1,4 @@
-import solution from "../../algorithms/leetcode/49-group-anagrams";
+import solution from "../../algorithms/leetcode/0049.group-anagrams";
 
 describe("LeetCode Group Anagrams Test", () => {
   test("test1", () => {

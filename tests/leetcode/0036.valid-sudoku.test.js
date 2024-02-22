@@ -1,4 +1,4 @@
-import solution from "../../algorithms/leetcode/36-valid-sudoku";
+import solution from "../../algorithms/leetcode/0036.valid-sudoku";
 
 describe("LeetCode Valid Sudoku Test", () => {
   test("Test case 1", () => {

@@ -1,4 +1,4 @@
-import solution from "../../algorithms/leetcode/242-valid-anagram";
+import solution from "../../algorithms/leetcode/0242.valid-anagram";
 
 describe("LeetCode Valid Anagram Test", () => {
   test("test1", () => {

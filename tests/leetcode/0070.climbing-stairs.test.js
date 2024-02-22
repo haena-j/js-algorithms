@@ -1,4 +1,4 @@
-import solution from "../../algorithms/leetcode/70-climbing-stairs.js";
+import solution from "../../algorithms/leetcode/0070.climbing-stairs";
 
 describe("LeetCode Climbing Stairs Test", () => {
   test("Test case 1", () => {

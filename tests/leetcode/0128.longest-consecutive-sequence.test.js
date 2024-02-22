@@ -1,4 +1,4 @@
-import solution from "../../algorithms/leetcode/128-longest-consecutive-sequence";
+import solution from "../../algorithms/leetcode/0128.longest-consecutive-sequence";
 
 describe("LeetCode Longest Consecutive Sequence Test", () => {
   test("Test case 1", () => {
