@@ -1,9 +1,4 @@
-import solution from "../../algorithms/leetcode/0206.reverse-linked-list";
-
-function ListNode(val, next) {
-  this.val = val === undefined ? 0 : val;
-  this.next = next === undefined ? null : next;
-}
+import solution, { ListNode } from "../../algorithms/leetcode/0206.reverse-linked-list";
 
 describe("LeetCode Reverse Linked List Test", () => {
   test("Test case 1", () => {

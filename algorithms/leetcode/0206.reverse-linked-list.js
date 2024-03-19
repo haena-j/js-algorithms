@@ -1,3 +1,10 @@
+export class ListNode {
+  constructor(val = 0, next = null) {
+    this.val = val;
+    this.next = next;
+  }
+}
+
 /**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
