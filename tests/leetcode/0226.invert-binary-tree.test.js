@@ -1,7 +1,7 @@
 import solution from "../../algorithms/leetcode/0226.invert-binary-tree";
 
 describe("LeetCode Invert Binary Tree Test", () => {
-  test("test1", () => {
+  test("Test case 1", () => {
     const result = solution({
       val: 4,
       left: {
