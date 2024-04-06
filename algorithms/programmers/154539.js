@@ -13,3 +13,5 @@ function solution(numbers) {
 
   return result;
 }
+
+export default solution;
